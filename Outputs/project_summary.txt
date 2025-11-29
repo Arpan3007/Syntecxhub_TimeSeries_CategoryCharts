@@ -1,0 +1,10 @@
+
+📌 Final Project Summary
+
+- The dataset contains over 51,000 sales records spanning from 2011 to 2014 across three major product categories.
+- The daily sales chart shows natural fluctuations with several high-value spikes, indicating promotional sales and seasonal demand.
+- The monthly sales trend displays a clear upward movement over the years, with noticeable peaks during mid-to-late year months.
+- Quarterly analysis reveals that Q3 and Q4 consistently generate the highest revenue, with 2014 Q4 being the strongest-performing quarter.
+- Category-wise, Technology contributes the highest total sales, followed by Furniture, while Office Supplies makes up the smallest share.
+- The category sales share pie chart highlights Technology as the dominant revenue contributor, emphasizing its importance in overall business performance.
+- Overall, the analysis reveals strong year-end seasonality, consistent growth, and clear differences in category performance.
