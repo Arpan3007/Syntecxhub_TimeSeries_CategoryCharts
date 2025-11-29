@@ -21,7 +21,7 @@ All visualizations were created using Python, Pandas, and Matplotlib.
 
 
 
-🧰 Tools & Technologies Used
+🧰 Tools & Technologies Used :-
    - Python
    - Pandas
    - Matplotlib
@@ -29,7 +29,7 @@ All visualizations were created using Python, Pandas, and Matplotlib.
 
 
 
-📥 Dataset Information
+📥 Dataset Information :-
    - Total Records: 51,290
    - Time Period: 2011–2014
    - Features Include: Order Date, Category, Sales, Profit, Shipping Cost, etc.
@@ -38,7 +38,7 @@ All visualizations were created using Python, Pandas, and Matplotlib.
 
 
 
-📈 Visualizations & Insights
+📈 Visualizations & Insights :-
    
    1️⃣ Daily Sales Over Time (Line Chart)
      - Shows natural day-to-day sales fluctuations with several high-value spikes and year-end increases.
@@ -58,7 +58,7 @@ All visualizations were created using Python, Pandas, and Matplotlib.
 
 
 
-📝 Final Project Summary
+📝 Final Project Summary :-
 
    - Dataset contains 51K+ records across multiple categories.
 
@@ -78,7 +78,7 @@ All visualizations were created using Python, Pandas, and Matplotlib.
 
 
 
-🎨 Chart Choice & Formatting Discussion
+🎨 Chart Choice & Formatting Discussion :-
 
    - Line charts used for time series trends—ideal for showing continuous performance patterns.
 
