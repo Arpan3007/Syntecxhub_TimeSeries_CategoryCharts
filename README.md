@@ -20,19 +20,6 @@ The primary goal is to explore:
 All visualizations were created using Python, Pandas, and Matplotlib.
 
 
-🗂 Project Structure
-  Syntecxhub_TimeSeries_CategoryCharts/
-│
-├── Project1_Sales_Analysis.ipynb   # Jupyter Notebook with analysis & charts
-├── superstore_sales.xlsx           # Dataset used for analysis
-├── outputs/                        # Exported chart images
-│     ├── daily_sales.png
-│     ├── monthly_sales.png
-│     ├── quarterly_sales.png
-│     ├── category_sales.png
-│     └── category_pie.png
-└── project_summary.txt             # Final written summary
-
 
 🧰 Tools & Technologies Used
    - Python
@@ -41,11 +28,14 @@ All visualizations were created using Python, Pandas, and Matplotlib.
    - Jupyter Notebook
 
 
+
 📥 Dataset Information
    - Total Records: 51,290
    - Time Period: 2011–2014
    - Features Include: Order Date, Category, Sales, Profit, Shipping Cost, etc.
    - Categories: Technology, Furniture, Office Supplies.
+
+
 
 
 📈 Visualizations & Insights
@@ -66,6 +56,8 @@ All visualizations were created using Python, Pandas, and Matplotlib.
      - Shows Technology as the dominant category contributing the largest revenue share.
 
 
+
+
 📝 Final Project Summary
 
    - Dataset contains 51K+ records across multiple categories.
@@ -82,6 +74,8 @@ All visualizations were created using Python, Pandas, and Matplotlib.
 
    - A full summary is saved in:
       📄 outputs/project_summary.txt
+
+
 
 
 🎨 Chart Choice & Formatting Discussion
